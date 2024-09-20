@@ -1,0 +1,186 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.Inicial {
+    width: 1920px;
+    height: 1151px;
+    position: relative;
+    background: black;
+}
+
+.Imagem {
+    width: 466px;
+    height: 526px;
+    position: absolute;
+    left: 1052px;
+    top: 235px;
+}
+
+.Rectangle48 {
+    width: 466px;
+    height: 526px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    border-radius: 16px;
+    border: 3px solid #22D4FD;
+}
+
+.Image11 {
+    width: 441px;
+    height: 504px;
+    position: absolute;
+    left: 6px;
+    top: 15px;
+}
+
+.Frame1 {
+    width: 610px;
+    position: absolute;
+    left: 357px;
+    top: 278px;
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+
+.TextoInicial {
+    width: 593px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    font-family: monospace
+}
+
+.EleveSeuNegCioDigitalAOutroNVelComUmFrontEndDeQualidade span {
+    color: #F6F6F6;
+    font-size: 46px;
+    font-family: Krona One, serif;
+    font-weight: 400;
+    line-height: 58px;
+    word-wrap: break-word;
+}
+
+.EleveSeuNegCioDigitalAOutroNVelComUmFrontEndDeQualidade .highlight {
+    width: 615px;
+    height: 482px;
+    top: 278px;
+    left: 357px;
+    gap: 0px;
+    opacity: 0px;
+    color: #22D4FD;
+   
+
+
+
+}
+
+.description {
+    color: #F6F6F6;
+    font-size: 24px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+    line-height: 36px;
+    word-wrap: break-word;
+    width: Fixed (593px)px;
+    height: Hug (352px)px;
+    top: 278px;
+    left: 357px;
+    gap: 40px;
+    opacity: 0px;
+
+}
+
+.button {
+    width: 280px;
+    height: 79px;
+    padding: 16px;
+    background: #22D4FD;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    text-align: center;
+}
+
+.button div {
+    color: black;
+    font-size: 24px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    line-height: 36px;
+    word-wrap: break-word;
+}
+
+.Instagram {
+    width: 174px;
+    height: 36px;
+    gap: 0px;
+    opacity: 0px;
+
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    text-align: center;
+}
+.Github {
+    width: 174px;
+    height: 36px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    text-align: center;
+    
+    
+    
+}
+
+.Home,
+.SobreMim {
+    position: absolute;
+    color: #22D4FD;
+    font-size: 40px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 700;
+    line-height: 56px;
+    word-wrap: break-word;
+}
+
+.Home {
+    left: 362px;
+    top: 43px;
+}
+
+.SobreMim {
+    left: 618px;
+    top: 43px;
+}
+
+.Rectangle198 {
+    width: 1920px;
+    height: 126px;
+    position: absolute;
+    left: 0;
+    top: 1025px;
+    background: #22D4FD;
+}
+
+.footer-text {
+    position: absolute;
+    left: 661px;
+    top: 1060px;
+    color: black;
+    font-size: 36px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 500;
+    line-height: 56px;
+    word-wrap: break-word;
+}
